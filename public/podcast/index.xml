@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Podcasts on Wszechwszeteczny</title>
+    <title>Podkast on Wszechwszeteczny</title>
     <link>http://localhost:1313/podcast/</link>
-    <description>Recent content in Podcasts on Wszechwszeteczny</description>
+    <description>Recent content in Podkast on Wszechwszeteczny</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>pl-PL</language>
     <lastBuildDate>Tue, 21 Oct 2025 10:24:08 +0000</lastBuildDate>

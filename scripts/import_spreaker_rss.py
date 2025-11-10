@@ -33,17 +33,16 @@ slug: "{slug}"
 draft: false
 episode_id: "{episode_id}"
 audio: "{audio_url}"
-description: |
-  {description}
-tags: [{tags}]
 lang: "{lang}"
 ---
+
+{description}
 
 <!-- Spreaker player -->
 <iframe src="https://widget.spreaker.com/player?episode_id={episode_id}"
         width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
-{excerpt}
+{download}
 """
 
 def safe_filename(s):
@@ -103,6 +102,8 @@ def make_markdown(item, episode_id, slug, lang="pl"):
     # simple excerpt — first 250 chars
     excerpt = description[:250] + ("..." if len(description) > 250 else "")
     tags = ",".join([t.get("term", "") for t in item.get("tags", []) if isinstance(t, dict)])
+    tags = ""
+    download_html = f'<p><a href="{audio_url}" download>Pobierz odcinek (MP3)</a></p>'
 
 
     md = MARKDOWN_TEMPLATE.format(
@@ -114,7 +115,8 @@ def make_markdown(item, episode_id, slug, lang="pl"):
         description=description.replace("\n", "\n  "),
         tags=tags,
         lang=lang,
-        excerpt=excerpt
+        #excerpt=excerpt
+        download=download_html
     )
     return md
 

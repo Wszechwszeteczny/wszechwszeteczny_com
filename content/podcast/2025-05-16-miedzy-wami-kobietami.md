@@ -7,7 +7,6 @@ episode_id: "66117192"
 audio: "https://api.spreaker.com/download/episode/66117192/005_ed.mp3"
 description: |
   Dziś mała garść obserwacji na temat lesbijskich eksperymentów kobiet heteroseksualnych z innymi kobietami.
-tags: [biseksualność,bumble,eksperymenty,erotyczne,fantazje,kobiety,lesbijki,randkowanie,seks,tinder]
 lang: "pl"
 ---
 
@@ -15,4 +14,4 @@ lang: "pl"
 <iframe src="https://widget.spreaker.com/player?episode_id=66117192"
         width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
-Dziś mała garść obserwacji na temat lesbijskich eksperymentów kobiet heteroseksualnych z innymi kobietami.
+<p><a href="https://api.spreaker.com/download/episode/66117192/005_ed.mp3" download>Pobierz odcinek (MP3)</a></p>
