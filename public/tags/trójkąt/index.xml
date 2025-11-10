@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Trójkąt on Wszechwszeteczny</title>
+    <link>http://localhost:1313/tags/tr%C3%B3jk%C4%85t/</link>
+    <description>Recent content in Trójkąt on Wszechwszeteczny</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>pl-PL</language>
+    <lastBuildDate>Thu, 07 Aug 2025 17:24:52 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tr%C3%B3jk%C4%85t/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fantazja impromptu z wykorzystaniem służby</title>
+      <link>http://localhost:1313/podcast/fantazja-impromptu-z-wykorzystaniem-sluzby/</link>
+      <pubDate>Thu, 07 Aug 2025 17:24:52 +0000</pubDate>
+      <guid>http://localhost:1313/podcast/fantazja-impromptu-z-wykorzystaniem-sluzby/</guid>
+      <description>Kolejna fantazja, tym razem oparta na dynamice, w której partnerka przyjmuje rolę służącej.
+</description>
+    </item>
+  </channel>
+</rss>

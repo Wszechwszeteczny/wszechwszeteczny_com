@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Głębokie on Wszechwszeteczny</title>
+    <link>http://localhost:1313/tags/g%C5%82%C4%99bokie/</link>
+    <description>Recent content in Głębokie on Wszechwszeteczny</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>pl-PL</language>
+    <lastBuildDate>Wed, 09 Apr 2025 16:50:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/g%C5%82%C4%99bokie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jak zrobić loda?</title>
+      <link>http://localhost:1313/podcast/jak-zrobic-loda/</link>
+      <pubDate>Wed, 09 Apr 2025 16:50:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcast/jak-zrobic-loda/</guid>
+      <description>Tytuł mówi chyba sam za siebie. Pozostajemy przy tematyce oralnej, ale teraz w konwencji poradnikowej, skierowanej do miłośniczek (i miłośników!) penisów.
+</description>
+    </item>
+  </channel>
+</rss>

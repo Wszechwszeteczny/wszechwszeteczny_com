@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Uległość on Wszechwszeteczny</title>
+    <link>http://localhost:1313/tags/uleg%C5%82o%C5%9B%C4%87/</link>
+    <description>Recent content in Uległość on Wszechwszeteczny</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>pl-PL</language>
+    <lastBuildDate>Thu, 07 Aug 2025 17:24:52 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/uleg%C5%82o%C5%9B%C4%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fantazja impromptu z wykorzystaniem służby</title>
+      <link>http://localhost:1313/podcast/fantazja-impromptu-z-wykorzystaniem-sluzby/</link>
+      <pubDate>Thu, 07 Aug 2025 17:24:52 +0000</pubDate>
+      <guid>http://localhost:1313/podcast/fantazja-impromptu-z-wykorzystaniem-sluzby/</guid>
+      <description>Kolejna fantazja, tym razem oparta na dynamice, w której partnerka przyjmuje rolę służącej.
+</description>
+    </item>
+    <item>
+      <title>Fantazja impromptu na język i dwie wargi</title>
+      <link>http://localhost:1313/podcast/fantazja-impromptu-na-jezyk-i-dwie-wargi/</link>
+      <pubDate>Wed, 26 Mar 2025 17:14:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcast/fantazja-impromptu-na-jezyk-i-dwie-wargi/</guid>
+      <description>Pierwszy, próbny odcinek, a w nim fantazja mocno oralna w kilku wariantach.
+</description>
+    </item>
+  </channel>
+</rss>

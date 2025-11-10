@@ -1,0 +1,35 @@
+baseURL = "https://wszechwszeteczny.com/"
+title = "Wszechwszeteczny"
+languageCode = "pl-PL"
+defaultContentLanguage = "pl"
+theme = "PaperMod"
+enableRobotsTXT = true
+
+[params]
+  defaultTheme = "auto"
+  showReadingTime = true
+  showShareButtons = true
+  showFooter = true
+  comments = true   # placeholder for future Cusdis integration
+
+  socialIcons = [
+    { name = "email", url = "mailto:wszechwszeteczny@pm.me" },
+    { name = "wykop", url = "https://wykop.pl/ludzie/Wszechwszeteczny" },
+    { name = "fetlife", url = "https://fetlife.com/Wszechwszeteczny" }
+  ]
+[params.profileMode]
+  enabled = true
+  title = "Twój Pseudonim"
+  subtitle = "Podcast, blog, opowiadania"
+  imageUrl = "images/avatar.jpg"      # optional
+  imageTitle = "avatar"
+  buttons = [
+    { name = "Blog", url = "/blog/" },
+    { name = "Podcast", url = "/podcast/" }
+  ]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
